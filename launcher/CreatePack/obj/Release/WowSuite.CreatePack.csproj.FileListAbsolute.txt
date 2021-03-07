@@ -1,0 +1,12 @@
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\CreatePack.exe.config
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\CreatePack.exe
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\CreatePack.pdb
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\WowSuite.Constants.dll
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\WowSuite.Utils.dll
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\WowSuite.Constants.pdb
+F:\Code\Study\Launcher\launcher\CreatePack\bin\Release\WowSuite.Utils.pdb
+F:\Code\Study\Launcher\launcher\CreatePack\obj\Release\WowSuite.CreatePack.csprojAssemblyReference.cache
+F:\Code\Study\Launcher\launcher\CreatePack\obj\Release\WowSuite.CreatePack.csproj.CoreCompileInputs.cache
+F:\Code\Study\Launcher\launcher\CreatePack\obj\Release\WowSuite.CreatePack.csproj.CopyComplete
+F:\Code\Study\Launcher\launcher\CreatePack\obj\Release\CreatePack.exe
+F:\Code\Study\Launcher\launcher\CreatePack\obj\Release\CreatePack.pdb

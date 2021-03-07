@@ -1,0 +1,6 @@
+F:\Code\Study\Launcher\launcher\Constants\bin\Release\WowSuite.Constants.dll
+F:\Code\Study\Launcher\launcher\Constants\bin\Release\WowSuite.Constants.pdb
+F:\Code\Study\Launcher\launcher\Constants\obj\Release\WowSuite.Constants.csprojAssemblyReference.cache
+F:\Code\Study\Launcher\launcher\Constants\obj\Release\WowSuite.Constants.csproj.CoreCompileInputs.cache
+F:\Code\Study\Launcher\launcher\Constants\obj\Release\WowSuite.Constants.dll
+F:\Code\Study\Launcher\launcher\Constants\obj\Release\WowSuite.Constants.pdb

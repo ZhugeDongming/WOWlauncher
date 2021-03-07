@@ -1,0 +1,5 @@
+F:\Code\Study\Launcher\launcher\WowSuite.Utils\bin\Release\WowSuite.Utils.dll
+F:\Code\Study\Launcher\launcher\WowSuite.Utils\bin\Release\WowSuite.Utils.pdb
+F:\Code\Study\Launcher\launcher\WowSuite.Utils\obj\Release\WowSuite.Utils.csproj.CoreCompileInputs.cache
+F:\Code\Study\Launcher\launcher\WowSuite.Utils\obj\Release\WowSuite.Utils.dll
+F:\Code\Study\Launcher\launcher\WowSuite.Utils\obj\Release\WowSuite.Utils.pdb
